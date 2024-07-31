@@ -32,7 +32,7 @@
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ahmedembeddedx/legendary-sentinel-of-attendance.git
+git clone https://github.com/ahmedembeddedxx/legendary-sentinel-of-attendance.git
 ```
 
 2. Open the solution file `LegendarySentinelOfAttendance.sln` in Visual Studio.
